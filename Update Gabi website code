@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Réparation Oga Gabi - Gabi, Niger</title>
+  <meta name="description" content="Réparation téléphone à Gabi : Écran, Batterie, Flash, Logiciel. Diagnostic gratuit. WhatsApp 70067693">
+  <style>
+    body{font-family:Arial,sans-serif;margin:0;background:#f4f4f4;color:#333;text-align:center}
+    header{background:#0a7a4f;color:#fff;padding:30px 15px}
+    header h1{margin:0;font-size:26px}
+    header p{margin:5px 0 0}
+    .container{max-width:600px;margin:20px auto;padding:20px;background:#fff;border-radius:10px;box-shadow:0 2px 8px rgba(0,0,0,0.1)}
+    .btn{display:block;width:80%;margin:12px auto;padding:15px;background:#25D366;color:#fff;text-decoration:none;border-radius:8px;font-weight:bold;font-size:18px}
+    .btn.call{background:#0a7a4f}
+    footer{margin-top:20px;font-size:14px;color:#777}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Réparation Oga Gabi</h1>
+    <p>Le spécialiste téléphone de Gabi, Niger</p>
+  </header>
+
+  <div class="container">
+    <h2>Nos Services ✅</h2>
+    <p>Écran cassé • Batterie faible • Flash • Logiciel • Déverrouillage</p>
+    
+    <h2>Diagnostic Gratuit</h2>
+    <p>Venez avec votre téléphone. On vérifie sans engagement.</p>
+
+    <h2>Contactez-moi</h2>
+    <a class="btn" href="https://wa.me/22770067693" target="_blank">WhatsApp : 70067693</a>
+    <a class="btn call" href="tel:+22770067693">Appeler : 70067693</a>
+    
+    <p style="margin-top:20px;"><strong>Adresse :</strong> Gabi, Niger</p>
+    <p><strong>Heures :</strong> 8h - 19h, Tous les jours</p>
+  </div>
+
+  <footer>
+    © 2026 Réparation Oga Gabi | Site officiel pour les résidents de Gabi
+  </footer>
+</body>
+</html>
